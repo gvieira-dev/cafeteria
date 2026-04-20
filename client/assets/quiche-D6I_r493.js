@@ -1,0 +1,1 @@
+const e="/cafeteria/assets/croissant-CkXQ5zE_.jpg",s="/cafeteria/assets/iced-coffee-G7eRAnsx.jpg",a="/cafeteria/assets/chocolate-cake-SQ-R_Li5.jpg",c="/cafeteria/assets/cinnamon-roll-Yf96RCPe.jpg",t="/cafeteria/assets/quiche-BM707U7B.jpg";export{a,c as b,e as c,s as i,t as q};
